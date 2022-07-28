@@ -35,5 +35,9 @@ sudo service jenkins status
 ```
 > paste it in the search bar of the browser
 ```
-_ip_adres:8080
+_ip_addres:8080
+```
+> yoyr password is in:
+```
+sudo nano /var/lib/jenkins/secrets/initialAdminPassword
 ```
