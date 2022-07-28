@@ -29,3 +29,8 @@ sudo apt-get update
 ```
 sudo apt-get install jenkins
 ```
+## Status
+
+```
+sudo service jenkins status
+```
